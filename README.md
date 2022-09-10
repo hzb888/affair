@@ -2,7 +2,7 @@
 
 <a><img src="https://img.shields.io/badge/gem-123-brightgreen"></a>
 
-![ces](https://www.example.com) 
+![](https://img.shields.io/badge/license-GPL-3.0-blue)
 
 
 this is Campus Schedule Mini Program 
